@@ -3,7 +3,7 @@ I explore what can be done with the algorithm which generates the Barnsley Fern 
 
 The original Barnsley Fern:
 
-![](images/Bernsley Fern.jpg) 
+![](images/BarnsleyFern.jpg) 
 
 ## What has been done
 
