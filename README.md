@@ -9,10 +9,10 @@ The original Barnsley Fern:
 
 I explored the parameter space at random and found some parameters for which I find the corresponding fractal beautiful, using Processing. Here are some of the results I got:
 
-![](images/r1.png) 
-![](images/r2.png) 
-![](images/r3.png) 
-![](images/r4.png) 
+![](images/r1.jpg) 
+![](images/r2.jpg) 
+![](images/r3.jpg) 
+![](images/r4.jpg) 
 
 I recorded the transition between different fractals by switching the program to filming mode, and making a film out of the output images using the built-in function of processing. I got the following result: https://youtu.be/ANUTxByaV7I
 
